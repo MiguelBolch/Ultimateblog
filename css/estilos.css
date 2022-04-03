@@ -8,3 +8,10 @@ p
 {
     color: aqua;
 }
+h3 
+{
+    color: brown;
+    text-align: end;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-size-adjust: 30;
+}
