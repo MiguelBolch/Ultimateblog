@@ -4,14 +4,16 @@ body
     text-align: center;
     font-family: Arial;
 }
-p
-{
-    color: aqua;
+#container{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
 }
-h3 
+
+#container
 {
-    color: brown;
-    text-align: end;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-size-adjust: 30;
+    font-size: 70px;
+    
 }
