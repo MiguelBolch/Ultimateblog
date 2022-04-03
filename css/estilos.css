@@ -1,19 +1,18 @@
 body 
 {
-    color: deeppink;
-    text-align: center;
-    font-family: courier;
+    color: green;
+    text-align: left;
+    font-family: arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #container{
     width: 70%;
-    padding: 1cm;
+    padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
-    font-size: 20px;
 }
 
 #cabecera{
@@ -26,7 +25,15 @@ body
 }
 #cabecera #tagline
 {
-    padding: 0 0 0 3cm;
+    padding: 0 0 0 3em;
     font-weight: normanl;
-    font-size: 0.8cm;
+    font-size: 0.8em;
+}
+#post
+{
+    text-align: justify;
+}
+#final{
+    text-align: right;
+    color: black;
 }
