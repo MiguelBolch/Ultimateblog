@@ -30,44 +30,6 @@ Derechos reservados a mi XD🤣&reg; &copy;
     - [ ] Terminar clases
 - [ ] Pasar el examen
 
-
-### Importanete nunca olvidar XD 😈
-   
-$$ E=mc^2 $$
-
-Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
-                    
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-                
-### Ruta del exito
-
-``` flow
-st=>start: Te despiertas
-op=>operation: Ejercicio
-cond=>condition: ¿Ya llenaste de sudor la playera?🤔
-e=>end: Ya estas listo para comenzar el día💪👏👏😎
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-### Secuencia de git pull
-                    
-```seq
-Git->GitHub: git pull origin main 
-Note right of GitHub: Procesa la orden
-GitHub->Git: tienes las credenciales?
-Note left of Git: Revisa la señal
-Git->GitHub: Manda las credenciales
-Note right of GitHub: Revisa credenciales
-GitHub->Git:Manda los resultados
-Note left of Git: Fin del proceso
-
-```
-
 ### Final del Readme.md, ten un excelente dia ♥😘
 Y como un amable recordario: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca:
 
