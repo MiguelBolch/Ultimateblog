@@ -16,7 +16,7 @@ body
 }
 
 #cabecera{
-    background: #33A;
+    background: pink;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -63,7 +63,7 @@ footer{
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: blue;
+    background-color: pink;
     color: white;
 }
 
