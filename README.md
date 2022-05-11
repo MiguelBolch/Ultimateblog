@@ -26,9 +26,9 @@ Derechos reservados a mi XD🤣&reg; &copy;
 ## Cosas que ya e hecho
 - [x] Instalacion de Git 
 - [x] Configuracion de maquina virtual
-- [ ] Terminar curso
-    - [ ] Terminar clases
-- [ ] Pasar el examen
+- [x] Terminar curso
+    - [x] Terminar clases
+- [x] Pasar el examen
 
 ### Final del Readme.md, ten un excelente dia ♥😘
 Y como un amable recordario: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca:
