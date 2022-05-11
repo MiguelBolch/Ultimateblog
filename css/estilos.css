@@ -1,12 +1,12 @@
 body 
 {
-    color: green;
+    color: rgb(23, 53, 23);
     text-align: left;
     font-family: arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
-    background: red;
+    background: grey;
 }
 #container{
     width: 70%;
